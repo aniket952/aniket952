@@ -1,8 +1,5 @@
-Hi 👋 My name is Aniket
-=======================
-![Header](./github-header-image.png)
 
-SDE1
+![Header](./github-header-image.png)
 ----
 
 I’m Aniket, full time Software dev with 1 year of exp and 2 SDE internship at startups.
