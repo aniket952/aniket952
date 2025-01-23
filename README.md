@@ -1,6 +1,6 @@
 Hi 👋 My name is Aniket
 =======================
-![Header](./github-header-image)
+![Header](./github-header-image.png)
 
 SDE1
 ----
