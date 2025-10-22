@@ -2,7 +2,7 @@
 ![Header](./github-header-image.png)
 ----
 
-I’m a Software Developer at Accenture with nearly 2 years of experience and 2 SDE internship at startups building scalable, full-stack applications using Java, Spring Boot, React, and Next.js. My work focuses on designing reliable microservices, optimizing backend performance, and delivering intuitive frontend experiences
+I’m a Software Developer with nearly 2 years of experience and 2 SDE internship at startups building scalable, full-stack applications using Java, Spring Boot, React, and Next.js. My work focuses on designing reliable microservices, optimizing backend performance, and delivering intuitive frontend experiences
 I’m passionate about clean architecture, API design, and end-to-end product delivery,
 
 * 🌍  I'm based in Pune, India
