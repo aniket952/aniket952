@@ -2,11 +2,12 @@
 ![Header](./github-header-image.png)
 ----
 
-I’m Aniket, full time Software dev with 1 year of exp and 2 SDE internship at startups.
+I’m a Software Developer at Accenture with nearly 2 years of experience and 2 SDE internship at startups building scalable, full-stack applications using Java, Spring Boot, React, and Next.js. My work focuses on designing reliable microservices, optimizing backend performance, and delivering intuitive frontend experiences
+I’m passionate about clean architecture, API design, and end-to-end product delivery,
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [aniketsde2025@gmail.com](mailto:aniketsde2025@gmail.com)
-* 🤝  I'm open to collaborating on UI, UX and Interesting Project
+* 🤝  I'm open to collaborating on SAAS, UI, UX and Interesting Project
 
 ### Skills
 
